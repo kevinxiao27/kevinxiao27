@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Kevin, a sophomore studying CS + Business at the University of British Columbia.
 
