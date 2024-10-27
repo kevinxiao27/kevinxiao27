@@ -4,8 +4,8 @@ I'm Kevin, a sophomore studying CS + Business at the University of British Colum
 
 I'm currently:
 - a developer @ UBC BizTech shipping event features 🚀
-- working on an end-to-end live voting platform to be used at UX Open
-- a CS Teaching Assistant @ UBC
+- working on UXLive: end-to-end voting platform for audiences, presenters, and event directors
+- a Software Construction (CPSC 210) TA @ UBC
 
 
 Reach me at kevin.xiao27@gmail.com 📫
