@@ -4,7 +4,7 @@ I'm Kevin, a sophomore studying CS + Business at the University of British Colum
 
 I'm currently:
 - a developer @ UBC BizTech shipping event features 🚀
-- working on UXLive: end-to-end voting platform for audiences, presenters, and event directors
+- working on UXLive: end-to-end voting platform for design competition attendees, presenters, and event directors
 - a Software Construction (CPSC 210) TA @ UBC
 
 
