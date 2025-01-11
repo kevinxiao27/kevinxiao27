@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I'm Kevin, a sophomore studying CS + Business at the University of British Columbia.
+I'm Kevin, a sophomore studying CS + Business at the University of British Columbia. 
 
 I'm currently:
 - a developer @ UBC BizTech shipping event features 🚀
-- working on UXLive: end-to-end voting platform for design competition attendees, presenters, and event directors
-- a Software Construction (CPSC 210) TA @ UBC
+- working on Blueprint (BizTech's Flagship Tech Conference) gamification and social connection features 😎
+- a Software Engineer Intern @ DataVisor
 
+Formerly:
+- lead backend engineer for UX Live: a message streaming service to enable audience reactions in real-time
+- a Software Construction (CPSC 210) TA @ UBC
 
 Reach me at kevin.xiao27@gmail.com 📫
 
