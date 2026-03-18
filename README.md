@@ -1,11 +1,13 @@
 Incoming:
-- SWE intern @ Tesla \[FleetNet / RoboTaxi\]
+- SWE intern @ Tesla \[FleetNet\]
 
 Currently:
-- Software dev lead @ UBC BizTech
+- Software Lead @ UBC BizTech
+- Learning Dist. Sys.
 
 Formerly:
 - SWE intern @ DataVisor
 - UTA for CPSC 210 @ UBC
 
-Contact: kevin.xiao27@gmail.com
+Contact: 
+- kevin.xiao27@gmail.com
