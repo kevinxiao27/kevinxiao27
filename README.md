@@ -2,10 +2,11 @@ Incoming:
 - SWE intern @ Tesla \[FleetNet\]
 
 Currently:
-- Software Lead @ UBC BizTech
-- Learning Dist. Sys.
+- Building distributed systems
+- Reading about inference
 
 Formerly:
+- Software Lead @ UBC BizTech
 - SWE intern @ DataVisor
 - UTA for CPSC 210 @ UBC
 
