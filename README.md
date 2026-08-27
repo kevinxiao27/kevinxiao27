@@ -1,9 +1,9 @@
 Currently:
-- SWE intern @ Tesla \[FleetNet\]
 - Building distributed systems
 - Reading about inference
 
 Formerly:
+- SWE intern @ Tesla \[FleetNet\]
 - Software Lead @ UBC BizTech
 - SWE intern @ DataVisor
 - TA for CPSC 210 @ UBC
